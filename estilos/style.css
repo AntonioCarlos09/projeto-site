@@ -3,13 +3,13 @@
     font-size: 16px;
 }
 
-*body {
-    background-color:rgb(204, 159, 247);
+body {
+    background-color:rgb(100, 28, 167);
 
 }
 
 main {
-    background-color: white;
+    background-color:white;
 width: 500px;
 margin: auto;
 padding: 10px;
